@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 15 for Windows Desktop
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Browser", "Browser\Browser.csproj", "{F75A5903-8C83-4C42-93A6-C32963DD9B65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F75A5903-8C83-4C42-93A6-C32963DD9B65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F75A5903-8C83-4C42-93A6-C32963DD9B65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F75A5903-8C83-4C42-93A6-C32963DD9B65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F75A5903-8C83-4C42-93A6-C32963DD9B65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D455C2F5-D758-405C-B91D-BF9A4A1013EE}
+	EndGlobalSection
+EndGlobal
